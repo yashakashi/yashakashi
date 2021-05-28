@@ -2,7 +2,7 @@
      @yashakashi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning fullstack web development
-- 📫 Reach me 
+- 📫 Reach me on
      Gmail:yashakashi@gmail.com
 
 <!---
